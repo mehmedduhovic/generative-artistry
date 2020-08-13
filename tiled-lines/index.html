@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Tiled Lines</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            background-color: black;
+        }
+
+        .canvas-frame {
+            background-color: white;
+            display: block;
+            top: 8rem;
+            margin: 2rem auto;
+            position: relative;
+            width: 400px;
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        canvas {
+            z-index: 2;
+            box-shadow: 0 40px 120px #009688;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="canvas-frame">
+        <canvas id="myCanvas" width="320" height="320"></canvas>
+    </div>
+    <script type="text/javascript" src="./script.js"></script>
+</body>
+
+</html>
