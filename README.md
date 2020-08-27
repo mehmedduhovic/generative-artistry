@@ -6,4 +6,12 @@
 
 ![Joy Division Image](https://i.imgur.com/uvZI9JJ.png)
 
+[Cubic Disarray](https://github.com/bracikaa/generative-artistry/tree/master/cubic-disarray)
+
+![Cubic Disarray Image](https://i.imgur.com/asZgxPG.png)
+
+[Triangular Mesh](https://github.com/bracikaa/generative-artistry/tree/master/triangular-mesh)
+
+![Triangular Mesh Image](https://i.imgur.com/XVi94xI.png)
+
 Insipired by https://generativeartistry.com/tutorials/.
