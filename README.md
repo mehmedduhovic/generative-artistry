@@ -18,4 +18,8 @@
 
 ![Un Deux Trois Image](https://i.imgur.com/sAhnnTl.png)
 
+[Circle Packing](https://github.com/bracikaa/generative-artistry/tree/master/circle-packing)
+
+![Circle Packing Image](https://i.imgur.com/Px7vHCg.png)
+
 Insipired by https://generativeartistry.com/tutorials/.
